@@ -1,4 +1,4 @@
-# SmartRover 🚗🤖
+# NeoBot 🚗🤖
 
 A Raspberry Pi-based intelligent robot car with **obstacle avoidance** and **gesture control** features. Designed to explore smart mobility through sensor fusion, motor control, and machine learning techniques.
 
